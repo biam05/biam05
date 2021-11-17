@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Beatriz Mendes and I’m studying for a [Master in Informatics and Computing Engineering @FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_ano_lectivo=2019)!
+My name is Beatriz Mendes and I’m studying for a [Master in Informatics and Computing Engineering @FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_ano_lectivo=2019). I also consider myself an aspiring Front-End Developer!
+
 
 - 📫 How to reach me: 
 
