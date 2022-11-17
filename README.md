@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Beatriz Mendes and I’m studying for a [Master in Informatics and Computing Engineering @FEUP](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_ano_lectivo=2019). I also consider myself an aspiring Front-End Developer!
+My name is Beatriz Mendes and I’m a 2nd year MSc student of Informatics and Computing Engineering who has developed a passion for Front-end Development and UI/UX design. I am focused and persistent, which makes me do my best at any given task, regardless of the difficulty. I am always eager to learn and explore new technologies. Feel free to contact me.
+
+
 
 
 - 📫 How to reach me: 
