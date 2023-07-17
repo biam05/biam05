@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Beatriz Mendes and I’m a 2nd year MSc student of Informatics and Computing Engineering who has developed a passion for Front-end Development and UI/UX design. I am focused and persistent, which makes me do my best at any given task, regardless of the difficulty. I am always eager to learn and explore new technologies. Feel free to contact me.
+I am Beatriz Mendes and I am a fresh graduate with a Master's in Informatics and Computing Engineering, passionate about Front-end Development and UI/UX design. I am focused and persistent and strive to do my best at any task, regardless of difficulty. I am always eager to learn and explore new technologies and challenges. Feel free to contact me.
 
 
 
