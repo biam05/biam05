@@ -4,13 +4,6 @@ Full stack developer at [Teamtailor](https://www.teamtailor.com), based in Porto
 
 🌐 **[biam05.github.io](https://biam05.github.io)** has my work and projects.
 
-#### Things I've built
-
-- **Dispatch**: a pixel art bakery where every Claude Code session is a tiny me, so I can see at a glance which agents are working, which need me and which are done.
-- **[Marker Palettes](https://marker-palettes.beatriz-mendes.workers.dev/)**: colour palettes made only from the alcohol and paint markers you own.
-- **Gift Notebook**: a notebook of gifts given and received, which installs on the iPhone home screen like an app.
-- **Release Calendar**: a list of upcoming books turned into a calendar I subscribe to in Google Calendar.
-
 #### Say hi
 
 📫 [beatrizcsmendes@gmail.com](mailto:beatrizcsmendes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/biamendes1/)
