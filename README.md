@@ -2,8 +2,6 @@
 
 Full stack developer at [Teamtailor](https://www.teamtailor.com), based in Porto. I have a soft spot for front-end and UI/UX, and I pay close attention to the details.
 
-I work a lot with AI and agentic development, using Claude Code and OpenAI Codex. That's how my side projects happen: small tools that help me at work and with my hobbies.
-
 🌐 **[biam05.github.io](https://biam05.github.io)** has my work and projects.
 
 #### Things I've built
